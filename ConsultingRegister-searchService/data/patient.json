@@ -1,0 +1,85 @@
+{
+  "56156293": {
+    "firstName": "Kwaw",
+    "lastName": "Aboah",
+    "age": 45,
+    "gender": "Female",
+    "tribe": "Mole-Dagbon",
+    "address": {
+      "location": "Accra",
+      "landmark": "Church"
+    },
+    "outPatientNumber": 8157265,
+    "NHISNumber": 4888301,
+    "entityId": 56156293
+  },
+  "72257018": {
+    "firstName": "Jojo",
+    "lastName": "Farkyi",
+    "age": 20,
+    "gender": "Male",
+    "tribe": "Fante",
+    "address": {
+      "location": "Sekondi-Takoradi",
+      "house": "7"
+    },
+    "outPatientNumber": 30620172,
+    "NHISNumber": 90545231,
+    "entityId": 72257018
+  },
+  "72257019": {
+    "firstName": "Jobo",
+    "lastName": "Farkyi",
+    "age": 24,
+    "gender": "Female",
+    "tribe": "Mole-Dagbon",
+    "address": {
+      "location": "Sekondi-Baleka",
+      "house": "22"
+    },
+    "outPatientNumber": 30620173,
+    "NHISNumber": 90545232,
+    "entityId": 72257019
+  },
+  "72257020": {
+    "firstName": "Jolo",
+    "lastName": "Farkyi",
+    "age": 29,
+    "gender": "Male",
+    "tribe": "Fante",
+    "address": {
+      "location": "Sekondi-Balboa",
+      "house": "12"
+    },
+    "outPatientNumber": 30620174,
+    "NHISNumber": 90545233,
+    "entityId": 72257020
+  },
+  "85594983": {
+    "firstName": "Ebo",
+    "lastName": "Boahen",
+    "age": 65,
+    "gender": "Female",
+    "address": {
+      "location": "Guan",
+      "house": "12A"
+    },
+    "outPatientNumber": 12143315,
+    "NHISNumber": 53168663,
+    "entityId": 85594983
+  },
+  "12322686": {
+    "firstName": "Komlá",
+    "lastName": "Afrakoma",
+    "age": 61,
+    "gender": "Female",
+    "tribe": "Ga-Adangbe",
+    "address": {
+      "location": "Kumasi",
+      "landmark": "Bus stop"
+    },
+    "outPatientNumber": 21791752,
+    "NHISNumber": 74820889,
+    "entityId": 12322686
+  }
+}

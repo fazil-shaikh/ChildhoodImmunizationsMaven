@@ -1,0 +1,28 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+.classpath
+.settings/org.eclipse.jdt.core.prefs
+src/.DS_Store
+src/main/.DS_Store
+src/main/java/.DS_Store
+src/main/java/immunization/.DS_Store
+src/main/java/immunization/.DS_Store
+src/main/java/.DS_Store
+src/main/.DS_Store
+src/.DS_Store
+.settings/org.eclipse.jdt.core.prefs
+.classpath
