@@ -11,3 +11,12 @@ The Immunization group plans to resolve this problem by developing a data entry 
 - John Hofacker
 - Alexander Millet
 - Fazil Shaikh
+
+## Documents and Demos
+![PatientClassDiagram](doc/Iteration2/PatientClassDiagram.jpg)
+
+![PatientClassDiagram](doc/Iteration4/SwingUIImages/SwingUI-1.jpg)
+![PatientClassDiagram](doc/Iteration4/SwingUIImages/SwingUI-2.jpg)
+![PatientClassDiagram](doc/Iteration4/SwingUIImages/SwingUI-3.jpg)
+![PatientClassDiagram](doc/Iteration4/SwingUIImages/SwingUI-4.jpg)
+![PatientClassDiagram](doc/Iteration4/SwingUIImages/SwingUI-5.jpg)
